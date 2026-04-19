@@ -184,6 +184,16 @@ const zeeshan = {
 
 ---
 
+## 🐍 Watch My Contributions Come Alive
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/mzstudiospk/mzstudiospk/output/github-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🚀 What I Build — Services & Expertise
 
 <div align="center">
