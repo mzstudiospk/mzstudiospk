@@ -159,7 +159,7 @@ const zeeshan = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mzstudiospk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=mzstudiospk&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&margin-h=15&column=7&row=1&title=Commits,Stars,Repositories,Followers,MultiLanguage,PullRequest,Experience" alt="GitHub Trophies" />
 
 </div>
 
