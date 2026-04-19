@@ -159,7 +159,16 @@ const zeeshan = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mzstudiospk&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&margin-h=15&column=7&row=1&title=Commits,Stars,Repositories,Followers,MultiLanguage,PullRequest,Experience" alt="GitHub Trophies" />
+| 🎯 Metric | 📊 Status |
+|-----------|-----------|
+| 💼 **Years of Experience** | 5+ Years |
+| 📱 **Apps Delivered** | 20+ Production Apps |
+| 🌟 **YC Startup Experience** | Ex-Abhi (S21) |
+| 🏢 **Current Role** | Senior React Native Developer |
+| 🚀 **Founded** | MZ Studios (2026) |
+| 🌍 **Client Reach** | Pakistan, USA, UK, UAE |
+| ⭐ **Client Satisfaction** | 100% |
+| 📦 **Tech Stack Mastery** | 20+ Technologies |
 
 </div>
 
