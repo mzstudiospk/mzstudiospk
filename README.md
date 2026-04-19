@@ -1,4 +1,10 @@
 <div align="center">
+<!-- Hero Banner -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Muhammad%20Zeeshan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Senior%20React%20Native%20Developer%20%7C%20Founder%20@%20MZ%20Studios&descSize=18&descAlignY=60" />
+
+</div>
 
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=2E86DE&center=true&vCenter=true&random=false&width=900&height=80&lines=Hi+there%2C+I'm+Muhammad+Zeeshan+%F0%9F%91%8B;Senior+React+Native+Developer+%F0%9F%9A%80;Mobile+%26+Web+App+Expert+%F0%9F%93%B1;Founder+%40+MZ+Studios+%F0%9F%92%BC;5%2B+Years+%7C+20%2B+Apps+Delivered+%E2%9C%85;Building+Apps+That+Work+%F0%9F%8C%9F" alt="Typing SVG" />
