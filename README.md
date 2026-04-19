@@ -179,7 +179,6 @@ const zeeshan = {
 </div>
 
 ---
----
 
 ## 💡 Fun Facts About Me
 
