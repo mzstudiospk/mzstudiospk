@@ -179,6 +179,40 @@ const zeeshan = {
 </div>
 
 ---
+---
+
+## 💡 Fun Facts About Me
+
+<div align="center">
+
+| 🎯 | 💬 |
+|----|-----|
+| ☕ **Coffee consumed while coding** | 10,000+ cups |
+| 🐛 **Bugs fixed** | Too many to count |
+| 🌙 **Late nights coding** | Lost count after 500 |
+| 📱 **Apps on App Stores** | 20+ |
+| 💡 **Lines of code written** | 500,000+ |
+| 🚀 **Startups helped** | 5+ (including YC-backed) |
+| 🎓 **Self-taught technologies** | 15+ |
+| 🌍 **Clients served globally** | Pakistan, USA, UK, UAE |
+
+</div>
+
+---
+
+## 🎯 My Mission
+
+> *"To build world-class mobile applications that solve real problems, help Pakistani businesses go digital, and inspire the next generation of developers in Pakistan to dream bigger."*
+
+<div align="center">
+
+### 🚀 Currently Available For:
+
+**`Freelance Projects`** • **`Full-Time Remote`** • **`Consulting`** • **`Technical Partnership`**
+
+</div>
+
+---
 
 ## 📈 Contribution Activity
 
