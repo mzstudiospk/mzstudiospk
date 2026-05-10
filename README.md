@@ -252,17 +252,6 @@ const zeeshan = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=mzstudiospk&repo=portfolio-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=F39C12&text_color=FFFFFF)](https://github.com/mzstudiospk/portfolio-website)
-[![SwaasthGaurdian](https://github-readme-stats.vercel.app/api/pin/?username=mzstudiospk&repo=SwaasthGaurdian&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=F39C12&text_color=FFFFFF)](https://github.com/mzstudiospk/SwaasthGaurdian)
-
-</div>
-
----
-
 ## 💼 Hire Me — MZ Studios
 
 <div align="center">
